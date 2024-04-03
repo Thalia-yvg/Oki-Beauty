@@ -5,8 +5,8 @@
 body{
 	width: 100%;
 	font-family: 'Open Sans', sans-serif;
-	background-image: url(../Img/BckGrnd.jpg);
-    background-size:cover;
+	background-image: url(../Img/BckGrnd.png);
+ 	background-size:cover;
 	background-repeat: no-repeat;
 	background-position: center;
 
